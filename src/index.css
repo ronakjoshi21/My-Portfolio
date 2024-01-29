@@ -1,0 +1,17 @@
+/*
+// File Name - index.css
+// Student Name - Ronak Joshi
+// Student ID - 301405108 
+// Date - 27/01/24
+ */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
